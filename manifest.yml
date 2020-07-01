@@ -3,7 +3,7 @@ applications:
       memory: 256M
       instances: 1
       domain: mybluemix.net
-      name: coronacrushertest
-      host: coronacrushertest
+      name: coronacrusher
+      host: coronacrusher
       disk_quota: 1024M
       buildpack: sdk-for-nodejs
